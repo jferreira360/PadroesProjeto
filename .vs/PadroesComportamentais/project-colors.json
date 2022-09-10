@@ -15,7 +15,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Arquivos Diversos",
       "ColorIndex": -1
+    },
+    "b0d8cd17-0f63-4bcd-baa3-155c5aae0bbc": {
+      "ProjectGuid": "b0d8cd17-0f63-4bcd-baa3-155c5aae0bbc",
+      "DisplayName": "PatternChainOfResponsability",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
