@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\ChainOfresponsability.csproj",
+      "projectUniqueName": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\Client\\ChainOfresponsability.csproj",
       "projectName": "ChainOfresponsability",
-      "projectPath": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\ChainOfresponsability.csproj",
+      "projectPath": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\Client\\ChainOfresponsability.csproj",
       "packagesPath": "C:\\Users\\jferr\\.nuget\\packages\\",
-      "outputPath": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\obj\\",
+      "outputPath": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jferr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\PatternChainOfResponsability\\PatternChainOfResponsability.csproj": {
-              "projectPath": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\PatternChainOfResponsability\\PatternChainOfResponsability.csproj"
+            "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\PatternChainOfResponsability\\PatternChainOfResponsability.csproj": {
+              "projectPath": "C:\\EstudosPadroesProjeto\\PadroesComportamentais\\ChainOfresponsability\\PatternChainOfResponsability\\PatternChainOfResponsability.csproj"
             }
           }
         }
